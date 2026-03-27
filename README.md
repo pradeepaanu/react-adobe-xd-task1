@@ -109,15 +109,14 @@ The frontend will open at `http://localhost:3000` and will communicate with the 
 - `PUT /api/users/:id` - Update user profile
 
 ## UI Pages
-
-<img width="422" height="562" alt="image" src="https://github.com/user-attachments/assets/165eec5c-0ba5-4ff2-be57-1aa348b3f3ac" />
 1. **Landing Page** - Welcome page with call-to-action buttons
-<img width="409" height="573" alt="image" src="https://github.com/user-attachments/assets/74a43f70-9b70-4ab8-8040-e20176103a03" />
-4. **Sign Up Page** - User registration form
-<img width="374" height="508" alt="image" src="https://github.com/user-attachments/assets/56914862-b11c-480a-8cc0-c00fa291daf6" />
+2. **Sign Up Page** - User registration form
 3. **Login Page** - User login form
+4. **Profile Page** - User profile display and information
+<img width="422" height="562" alt="image" src="https://github.com/user-attachments/assets/165eec5c-0ba5-4ff2-be57-1aa348b3f3ac" />
+<img width="409" height="573" alt="image" src="https://github.com/user-attachments/assets/74a43f70-9b70-4ab8-8040-e20176103a03" />
+<img width="374" height="508" alt="image" src="https://github.com/user-attachments/assets/56914862-b11c-480a-8cc0-c00fa291daf6" />
 <img width="539" height="558" alt="image" src="https://github.com/user-attachments/assets/4b0e89f6-5785-478a-8c65-2542ad13bb60" />
-5. **Profile Page** - User profile display and information
 
 ## Technologies Used
 
