@@ -110,6 +110,9 @@ The frontend will open at `http://localhost:3000` and will communicate with the 
 
 ## UI Pages
 
+<img width="422" height="562" alt="image" src="https://github.com/user-attachments/assets/165eec5c-0ba5-4ff2-be57-1aa348b3f3ac" />
+
+
 1. **Landing Page** - Welcome page with call-to-action buttons
 2. **Login Page** - User login form
 3. **Sign Up Page** - User registration form
